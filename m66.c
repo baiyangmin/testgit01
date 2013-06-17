@@ -6,11 +6,14 @@
 #include <board.h>
 #include <finsh.h>
 
+<<<<<<< HEAD
 
 
 
 
 ///1111111111
+=======
+>>>>>>> 4bfe6cf6d87d6a85cb7815604c42168bce8d1f42
 #include "jt808.h"
 
 #include "gsm.h"
